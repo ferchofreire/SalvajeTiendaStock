@@ -1,0 +1,7 @@
+<?php
+$OESiteUploadDirectory = "Upload";
+$OEConfWETextBox = '{"WE411805c9ab":{"InputName":"WE411805c9ab"},"WE3366a10d0a":{"InputName":"WE3366a10d0a"},"WE9a3599ec63":{"InputName":"WE9a3599ec63"},"WE2bc7bd1e05":{"InputName":"WE2bc7bd1e05"},"WE0f552534b8":{"InputName":"WE0f552534b8"},"WE08bb883314":{"InputName":"WE08bb883314"},"WE7d01d02ca5":{"InputName":"WE7d01d02ca5"},"WE08a6bd38ad":{"InputName":"WE08a6bd38ad"},"WEa05ea0e4fc":{"InputName":"WEa05ea0e4fc"},"WE9635f8e75f":{"InputName":"WE9635f8e75f"},"WE9c93dc9434":{"InputName":"WE9c93dc9434"},"WE1f74c46789":{"InputName":"WE1f74c46789"},"WEe9f089686c":{"InputName":"WEe9f089686c"},"WE8ec9b1fd4c":{"InputName":"WE8ec9b1fd4c"},"WE68bd382fbd":{"InputName":"urlShare"},"WE2dfa9ff9cd":{"InputName":"WE2dfa9ff9cd"},"WE3d73f22063":{"InputName":"WE3d73f22063"}}';
+$OEConfWECheckBox = '{"WEac7a5832d8":{"InputName":"WEac7a5832d8"},"WEe511190eab":{"InputName":"WEe511190eab"},"WE34c68774cd":{"InputName":"WE34c68774cd"},"WEf52b83d412":{"InputName":"WEf52b83d412"},"WEdce8860a1b":{"InputName":"WEdce8860a1b"},"WE13a1e15a80":{"InputName":"WE13a1e15a80"}}';
+$OEConfWETextArea = '{"WEbc6761bc3b":{"InputName":"WEbc6761bc3b"},"WE1e8c2856fb":{"InputName":"WE1e8c2856fb"}}';
+$OEConfWEListBox = '{"WEdb1347a826":{"InputName":"WEdb1347a826"},"WE498cc881f3":{"InputName":"WE498cc881f3"},"WEb4018c9100":{"InputName":"WEb4018c9100"}}';
+$OEConfWERadioButtonList = '{"WE69f8c73cba":{"InputName":"WE69f8c73cba"}}';

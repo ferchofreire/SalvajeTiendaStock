@@ -1,0 +1,245 @@
+20/09/2023 23:17:04 | 
+20/09/2023 23:17:04 | 
+Message : Script timed out
+20/09/2023 23:17:04 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+20/09/2023 23:17:04 | 
+Params : 
+20/09/2023 23:17:04 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+20/09/2023 23:17:04 | 
+Stamp : 20/09/2023 23:17:03
+20/09/2023 23:17:04 | 
+OSFullName : Microsoft Windows 7 Professional 
+20/09/2023 23:17:04 | 
+AvailablePhysicalMemory : 444,16 Mo 
+20/09/2023 23:17:04 | 
+TotalPhysicalMemory : 1,99 Go 
+20/09/2023 23:17:04 | 
+AvailableVirtualMemory : 1,07 Go 
+20/09/2023 23:17:04 | 
+TotalVirtualMemory : 2 Go 
+20/09/2023 23:17:04 | 
+WorkingSet : 397,83 Mo 
+20/09/2023 23:17:04 | 
+PagedMemorySize : 472,25 Mo 
+20/09/2023 23:17:04 | 
+TotalMemory : 171,65 Mo 
+20/09/2023 23:17:04 | 
+
+20/09/2023 23:17:04 | 
+ExTrace : 
+20/09/2023 23:17:04 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 546
+20/09/2023 23:17:04 | 
+
+20/09/2023 23:17:04 | 
+OETrace : 
+20/09/2023 23:17:04 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 549
+20/09/2023 23:17:04 | 
+at openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+20/09/2023 23:17:04 | 
+
+20/09/2023 23:17:04 | 
+------------------
+21/09/2023 5:01:19 | 
+21/09/2023 5:01:19 | 
+Message : Script timed out
+21/09/2023 5:01:19 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+21/09/2023 5:01:19 | 
+Params : 
+21/09/2023 5:01:19 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+21/09/2023 5:01:19 | 
+Stamp : 21/09/2023 5:01:14
+21/09/2023 5:01:19 | 
+OSFullName : Microsoft Windows 7 Professional 
+21/09/2023 5:01:19 | 
+AvailablePhysicalMemory : 389,02 Mo 
+21/09/2023 5:01:19 | 
+TotalPhysicalMemory : 1,99 Go 
+21/09/2023 5:01:19 | 
+AvailableVirtualMemory : 1,15 Go 
+21/09/2023 5:01:19 | 
+TotalVirtualMemory : 2 Go 
+21/09/2023 5:01:19 | 
+WorkingSet : 289,73 Mo 
+21/09/2023 5:01:19 | 
+PagedMemorySize : 388,82 Mo 
+21/09/2023 5:01:19 | 
+TotalMemory : 62,55 Mo 
+21/09/2023 5:01:19 | 
+
+21/09/2023 5:01:19 | 
+ExTrace : 
+21/09/2023 5:01:19 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 546
+21/09/2023 5:01:19 | 
+
+21/09/2023 5:01:19 | 
+OETrace : 
+21/09/2023 5:01:19 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 549
+21/09/2023 5:01:19 | 
+at openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+21/09/2023 5:01:19 | 
+
+21/09/2023 5:01:19 | 
+------------------
+21/09/2023 5:59:43 | 
+21/09/2023 5:59:43 | 
+Message : Script timed out
+21/09/2023 5:59:43 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+21/09/2023 5:59:43 | 
+Params : 
+21/09/2023 5:59:43 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+21/09/2023 5:59:43 | 
+Stamp : 21/09/2023 5:59:43
+21/09/2023 5:59:43 | 
+OSFullName : Microsoft Windows 7 Professional 
+21/09/2023 5:59:43 | 
+AvailablePhysicalMemory : 523,5 Mo 
+21/09/2023 5:59:43 | 
+TotalPhysicalMemory : 1,99 Go 
+21/09/2023 5:59:43 | 
+AvailableVirtualMemory : 1,17 Go 
+21/09/2023 5:59:43 | 
+TotalVirtualMemory : 2 Go 
+21/09/2023 5:59:43 | 
+WorkingSet : 261,95 Mo 
+21/09/2023 5:59:43 | 
+PagedMemorySize : 366,34 Mo 
+21/09/2023 5:59:43 | 
+TotalMemory : 53,14 Mo 
+21/09/2023 5:59:43 | 
+
+21/09/2023 5:59:43 | 
+ExTrace : 
+21/09/2023 5:59:43 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 546
+21/09/2023 5:59:43 | 
+
+21/09/2023 5:59:43 | 
+OETrace : 
+21/09/2023 5:59:43 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 549
+21/09/2023 5:59:43 | 
+at openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+21/09/2023 5:59:43 | 
+
+21/09/2023 5:59:43 | 
+------------------
+21/09/2023 22:49:35 | 
+21/09/2023 22:49:35 | 
+Message : Script timed out
+21/09/2023 22:49:35 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+21/09/2023 22:49:35 | 
+Params : 
+21/09/2023 22:49:35 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+21/09/2023 22:49:35 | 
+Stamp : 21/09/2023 22:49:33
+21/09/2023 22:49:35 | 
+OSFullName : Microsoft Windows 7 Professional 
+21/09/2023 22:49:35 | 
+AvailablePhysicalMemory : 415,48 Mo 
+21/09/2023 22:49:35 | 
+TotalPhysicalMemory : 1,99 Go 
+21/09/2023 22:49:35 | 
+AvailableVirtualMemory : 1,08 Go 
+21/09/2023 22:49:35 | 
+TotalVirtualMemory : 2 Go 
+21/09/2023 22:49:35 | 
+WorkingSet : 375,54 Mo 
+21/09/2023 22:49:35 | 
+PagedMemorySize : 474,64 Mo 
+21/09/2023 22:49:35 | 
+TotalMemory : 69,78 Mo 
+21/09/2023 22:49:35 | 
+
+21/09/2023 22:49:35 | 
+ExTrace : 
+21/09/2023 22:49:35 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 546
+21/09/2023 22:49:35 | 
+
+21/09/2023 22:49:35 | 
+OETrace : 
+21/09/2023 22:49:35 | 
+at openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 549
+21/09/2023 22:49:35 | 
+at openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+21/09/2023 22:49:35 | 
+
+21/09/2023 22:49:35 | 
+------------------
+9/22/2023 5:54:43 PM | 
+9/22/2023 5:54:43 PM | 
+Message : Error when SendMessage to Guideline times out.
+9/22/2023 5:54:43 PM | 
+
+9/22/2023 5:54:43 PM | 
+Hint: OEGuideline is accessible by its icon in the Windows' Notification area (near the system clock).
+9/22/2023 5:54:43 PM | 
+LastTrace : ExtractEmpty
+9/22/2023 5:54:43 PM | 
+Params : 
+9/22/2023 5:54:43 PM | 
+MethodeName : 
+9/22/2023 5:54:43 PM | 
+Stamp : 9/22/2023 5:54:39 PM
+9/22/2023 5:54:43 PM | 
+OSFullName : Microsoft Windows 7 Professional 
+9/22/2023 5:54:43 PM | 
+AvailablePhysicalMemory : 985.89 Mo 
+9/22/2023 5:54:43 PM | 
+TotalPhysicalMemory : 1.99 Go 
+9/22/2023 5:54:43 PM | 
+AvailableVirtualMemory : 1.18 Go 
+9/22/2023 5:54:43 PM | 
+TotalVirtualMemory : 2 Go 
+9/22/2023 5:54:43 PM | 
+WorkingSet : 310.12 Mo 
+9/22/2023 5:54:43 PM | 
+PagedMemorySize : 405.32 Mo 
+9/22/2023 5:54:43 PM | 
+TotalMemory : 77.74 Mo 
+9/22/2023 5:54:43 PM | 
+
+9/22/2023 5:54:43 PM | 
+ExTrace : 
+9/22/2023 5:54:43 PM | 
+
+9/22/2023 5:54:43 PM | 
+OETrace : 
+9/22/2023 5:54:43 PM | 
+at openElement.OEGuideline.ProcessTools._ReportGLCrashOnce() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\OEGuideline\ProcessTools.vb:line 389
+9/22/2023 5:54:43 PM | 
+at openElement.OEGuideline.ProcessTools.Send(RData rData, Boolean async, Boolean reportCrash) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\OEGuideline\ProcessTools.vb:line 413
+9/22/2023 5:54:43 PM | 
+at openElement.OEGuideline.ProcessTools.SendProjectClose() in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\OEGuideline\ProcessTools.vb:line 217
+9/22/2023 5:54:43 PM | 
+at openElement.WebSite.WebSite.Close(ActionArg`1 actionArg) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\WebSite.Close.vb:line 38
+9/22/2023 5:54:43 PM | 
+at openElement.WebSite.WebSite._Closure$__._Lambda$__R2-1(ActionArg a0)
+9/22/2023 5:54:43 PM | 
+at openElement.Wait.RunFunction[TResult](FuncWait`1 action, ActionArg param, String text1, String text2, WaitIconType iconType) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\Wait.vb:line 199
+9/22/2023 5:54:43 PM | 
+at openElement.WebSite.WebSite.Close(Boolean appClose) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\WebSite.Close.vb:line 18
+9/22/2023 5:54:43 PM | 
+at openElement.Forms.FrmMain.FrmMain_FormClosing(Object sender, FormClosingEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.Close.vb:line 42
+9/22/2023 5:54:43 PM | 
+at openElement.Forms.FrmMain.WndProc(Message& m) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.vb:line 33
+9/22/2023 5:54:43 PM | 
+at openElement.Forms.FrmMain.WndProc(Message& m) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\FrmMain.vb:line 33
+9/22/2023 5:54:43 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+9/22/2023 5:54:43 PM | 
+
+9/22/2023 5:54:43 PM | 
+------------------
