@@ -28,25 +28,25 @@ v1.0 -> Proyecto en JavaScript (Electron) y PHP (API) de TiendaStock para tienda
        - Json   
        
  Archivos JS:  
-      - articulos.js -> control de busqueda de Artículos.  
-      - botones.js -> control botones web de OpenElements.  
-      - carrito.js -> control de carrito de compras.  
-      - data.js -> manejo de archivo de Datos en (Json).  
-      - fotos.js .> control de subida, bajada de fotos.  
-      - funciones.js -> control general de functions.  
-      - items.js -> variables de visualización de items (listas).  
-      - stock.js -> control de stock.  
-      - turnos.js -> control de turnos y renderizado.  
-      - ventas.js -> control de ventas.  
+      - [articulos.js](./v10/OpenElement%20Proyect/articulos.js) -> control de busqueda de Artículos.   
+      - [botones.js](./v10/OpenElement%20Proyect/articulos.js) -> control botones web de OpenElements.  
+      - [carrito.js](./v10/OpenElement%20Proyect/carrito.js) -> control de carrito de compras.  
+      - [data.js](./v10/OpenElement%20Proyect/data.js) -> manejo de archivo de Datos en (Json).  
+      - [fotos.js](./v10/OpenElement%20Proyect/fotos.js) -> control de subida, bajada de fotos.  
+      - [funciones.js](./v10/OpenElement%20Proyect/funciones.js) -> control general de functions.  
+      - [items.js](./v10/OpenElement%20Proyect/items.js).js -> variables de visualización de items (listas).  
+      - [stock.js](./v10/OpenElement%20Proyect/stock.js)stock.js -> control de stock.  
+      - [turnos.js](./v10/OpenElement%20Proyect/turnos.js) -> control de turnos y renderizado.  
+      - [ventas.js](./v10/OpenElement%20Proyect/ventas.js) -> ventas.js -> control de ventas.  
         
   Archivos PHP:  
-      - api.php -> I/O File Json (persistent information)  
+      - [api.php](./v10/serv/api.php) -> I/O File Json (persistent information)  
   
   Archivos Json:  
-      - articulos.json -> lista de articulos.  
-      - conf.json -> opciones persistentes.  
-      - turnos.json -> lista de turnos.  
-      - ventas.json -> lista de ventas.  
+      - [articulos.json](./v10/serv/api.php) -> lista de articulos.  
+      - [conf.json](./v10/serv/conf.json) -> opciones persistentes.  
+      - [turnos.json](./v10/serv/turnos.json) -> lista de turnos.  
+      - [ventas.json](./v10/serv/ventas.json) -> lista de ventas.  
     
 v2.0 -> Proyecto en JavaScript Web Responsive y PHP (API) de TiendaStock para tienda de venta de artículos,   
 ----  
