@@ -3,7 +3,7 @@
 v1.0 -> Proyecto en JavaScript (Electron) y PHP (API) de TiendaStock para tienda de venta de artículos.   
 ----
 
-1. [Manual](../../wiki)
+1. [Manual](https://github.com/ferchofreire/SalvajeTiendaStock/wiki)
 2. Descargar
    
 ![Versión 1.0](./v10/v1.jpg)  
