@@ -51,6 +51,8 @@ v1.0 -> Proyecto en JavaScript (Electron) y PHP (API) de TiendaStock para tienda
 v2.0 -> Proyecto en JavaScript Web Responsive y PHP (API) de TiendaStock para tienda de venta de artículos,   
 ----  
 
+![Versión 2.0 Admin](./v20/v2ad.jpg)  
+
   Features:   
         + Entrono completamente Web (web tienda / web administración)    
         + Administador de Acceso vía web.    
@@ -82,7 +84,7 @@ Resources:
        - numeral.js  
        - OpenElement Environment  
        - Json   
-
+![Versión 2.0 FrontEnd](./v20/v2w.jpg)  
        
 
        
