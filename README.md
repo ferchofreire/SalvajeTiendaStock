@@ -2,7 +2,7 @@
 
 v1.0 -> Proyecto en JavaScript (Electron) y PHP (API) de TiendaStock para tienda de venta de artículos.   
 ----
-
+![Versión 1.0](./v10/v1.jpg)  
   Features:  
     + Registro de Artículos (Nombre, Costo, Precios, detalle, Proveedor y Tipo).    
     + Generador automático de código de producto.  
